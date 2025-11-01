@@ -113,7 +113,37 @@ nav ul li a {
   margin-bottom: 10px;
   border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    /* animation:size 5s linear ; */
 }
+/* @keyframes size {
+  0%{
+    width: 5%;
+    max-width: 200px;
+    height: auto;
+  }
+  25%{
+    width: 25%;
+  max-width: 200px;
+  height: auto;
+  }
+  50%{
+    width: 50%;
+  max-width: 200px;
+  height: auto;
+  }
+  75%{
+    width: 75%;
+  max-width: 200px;
+  height: auto;
+  }
+  100%{
+    width: 100%;
+  max-width: 200px;
+  height: auto;
+  }
+
+
+} */
 
 /* Mission & Vision Section */
 .mission {
